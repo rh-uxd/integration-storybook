@@ -1,0 +1,27 @@
+{
+  "name": "openshift-storybook",
+  "version": "1.0.0",
+  "description": "Design storybook for OpenShift.",
+  "scripts": {
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rh-uxd/openshift-storybook.git"
+  },
+  "author": "Red Hat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rh-uxd/openshift-storybook/issues"
+  },
+  "homepage": "https://rh-uxd.github.io/openshift-storybook",
+  "dependencies": {
+    "@patternfly/react-core": "^3.87.3",
+    "gatsby": "^2.14.4",
+    "gatsby-theme-docz": "2.0.0-rc.8",
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  }
+}

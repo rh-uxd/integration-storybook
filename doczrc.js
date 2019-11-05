@@ -9,5 +9,7 @@ export default {
     { name: 'Metrics' },
     { name: 'Navigation' },
     { name: 'Misc' },
+    { name: 'Masthead' },
+
   ]
 }

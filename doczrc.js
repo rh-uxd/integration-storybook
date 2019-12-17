@@ -10,6 +10,6 @@ export default {
     { name: 'Navigation' },
     { name: 'Misc' },
     { name: 'Masthead' },
-
+    { name: 'New' }
   ]
 }

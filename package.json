@@ -19,7 +19,7 @@
   "homepage": "https://rh-uxd.github.io/openshift-storybook",
   "dependencies": {
     "@patternfly/react-core": "^3.87.3",
-    "gatsby": "^2.14.4",
+    "gatsby": "^4.25.7",
     "gatsby-theme-docz": "2.0.0-rc.8",
     "react": "16.8.6",
     "react-dom": "16.8.6"
